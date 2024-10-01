@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hi there! I'm a passionate self-learner exploring the world of technology and software development. My journey involves:<br><br>🔨 <b>Currently Working On : </b> Enhancing my skills and taking on new challenges in various tech projects.<br>🤝 <b>Looking to Collaborate On : </b> Exciting open-source projects or any innovative ideas that align with my interests.<br>🆘 <b>Looking for Help With : </b> Advanced concepts and best practices in software development.<br>🌱 <b>Currently Learning : </b> New tools and methodologies to improve my development process.<br>💬 <b>Ask Me About : </b> Software development, project management, and my journey as a self-taught developer.<br>⚡ <b>Fun Fact : </b> I enjoy experimenting with new technologies and building projects that challenge my skills.
 
 
